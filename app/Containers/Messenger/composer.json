@@ -1,0 +1,7 @@
+{
+  "name": "apiato/messenger",
+  "description": "Messenger Container for apiato.",
+  "require": {
+    "cmgmyr/messenger": "~2.0"
+  }
+}
